@@ -6,12 +6,10 @@ getClk();
 
 ## You can use Makefile to build and run your project
 
-# To compile your project, use the command:
-make
+# To compile the project, use the command:
+make all
 
 # To run your project, use the command:
 make run
 
-# If you added a file to your project add it to the build section in the Makefile
-
-# Always start the line with a tab in Makefile, it is its syntax
+# To run a specific test case modify the filename in the MakeFile
